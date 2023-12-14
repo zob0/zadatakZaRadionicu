@@ -1,1 +1,1 @@
-neki tekst za master
+neki tekst resen merge konflikt
