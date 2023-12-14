@@ -1,1 +1,1 @@
-neki tekst za novu granu
+neki tekst resen merge konflikt
